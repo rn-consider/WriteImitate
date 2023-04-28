@@ -1,4 +1,4 @@
-# neverWriteByHand
+# WriteImitate
 ## 使用方法
 
 1.挑选汉字手写字体 http://www.foundertype.com 
